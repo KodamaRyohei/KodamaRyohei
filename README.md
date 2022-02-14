@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kodama_Ryohei
+- 👋 Hi, I’m @KodamaRyohei
 - 👀 I’m interested in Economic statistics
 - 🌱 I’m currently learning Economics and Statistics
 - 💞️ I’m looking to collaborate on ...
